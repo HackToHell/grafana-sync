@@ -8,3 +8,5 @@ require (
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/viper v1.10.1
 )
+
+replace github.com/grafana-tools/sdk => github.com/hacktohell/sdk gowtham/updates
