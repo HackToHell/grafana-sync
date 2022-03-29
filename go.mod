@@ -9,4 +9,4 @@ require (
 	github.com/spf13/viper v1.10.1
 )
 
-replace github.com/grafana-tools/sdk => github.com/hacktohell/sdk gowtham/updates
+replace github.com/grafana-tools/sdk => github.com/hacktohell/sdk v0.0.0-20220329215113-9b3b3f771ae5
