@@ -208,6 +208,8 @@ github.com/gosimple/slug v1.1.1/go.mod h1:ER78kgg1Mv0NQGlXiDe57DpCyfbNywXXZ9mIor
 github.com/grafana-tools/sdk v0.0.0-20220203092117-edae16afa87b h1:R9LID2XreyUOQfJ/NKLGuYOF4/Wz6ljmYFAhlOaHVQ4=
 github.com/grafana-tools/sdk v0.0.0-20220203092117-edae16afa87b/go.mod h1:AHHlOEv1+GGQ3ktHMlhuTUwo3zljV3QJbC0+8o2kn+4=
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
+github.com/hacktohell/sdk v0.0.0-20220329215113-9b3b3f771ae5 h1:xKmTzWgaJhOYoYZ7VO/bvCJyIjqIzjv8biShTx9hPv8=
+github.com/hacktohell/sdk v0.0.0-20220329215113-9b3b3f771ae5/go.mod h1:AHHlOEv1+GGQ3ktHMlhuTUwo3zljV3QJbC0+8o2kn+4=
 github.com/hashicorp/consul/api v1.11.0/go.mod h1:XjsvQN+RJGWI2TWy1/kqaE16HrR2J/FWgkYjdZQsX9M=
 github.com/hashicorp/consul/api v1.12.0/go.mod h1:6pVBMo0ebnYdt2S3H87XhekM/HHrUoTD2XXb/VrZVy0=
 github.com/hashicorp/consul/sdk v0.8.0/go.mod h1:GBvyrGALthsZObzUGsfgHZQDXjg4lOjagTIwIR1vPms=
